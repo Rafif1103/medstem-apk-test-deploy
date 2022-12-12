@@ -1,6 +1,8 @@
 # MedStem
 ## Tugas Kelompok PBP Gasal 2022/2023
 
+[![Build status](https://build.appcenter.ms/v0.1/apps/7372f381-1479-4225-9741-5fdb4a1c853c/branches/main/badge)](https://appcenter.ms)
+
 # How to Run (For Development)
 
 1. Clone the app
